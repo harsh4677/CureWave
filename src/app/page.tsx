@@ -255,6 +255,41 @@ function LoadingSpinner() {
   );
 }
 
+function MonthFilter({ 
+  selectedMonth, 
+  setSelectedMonth 
+}: { 
+  selectedMonth: number | null; 
+  setSelectedMonth: (month: number | null) => void 
+}) {
+  const months = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ];
+
+  return (
+    <div className="relative">
+      <select
+        value={selectedMonth || ""}
+        onChange={(e) => setSelectedMonth(e.target.value ? parseInt(e.target.value) : null)}
+        className="appearance-none bg-white border border-gray-300 rounded-md pl-3 pr-8 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+      >
+        <option value="">All Months</option>
+        {months.map((month, index) => (
+          <option key={month} value={index + 1}>
+            {month}
+          </option>
+        ))}
+      </select>
+      <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+        <svg className="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+          <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+        </svg>
+      </div>
+    </div>
+  );
+}
+
 export default function Home() {
   const [mounted, setMounted] = useState(false);
   const [place, setPlace] = useAtom(placeAtom);
@@ -264,6 +299,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [diseaseRecords, setDiseaseRecords] = useState<DiseaseRecord[]>([]);
+  const [selectedMonth, setSelectedMonth] = useState<number | null>(null);
 
   // Search functionality state
   const [city, setCity] = useState("");
@@ -375,7 +411,10 @@ export default function Home() {
     if (!bestMatch) {
       bestMatch = findBestMatch(monthRecords);
       matchType = 'month';
-    }
+    }                      
+    {diseasePrediction?.predictedDiseases?.map((disease: string, index: number) => (
+      <DiseaseCard key={index} disease={disease} />
+    ))}
   
     let confidence = 0.5;
     if (bestMatch) {
@@ -749,24 +788,41 @@ export default function Home() {
                   </div>
                 </motion.div>
 
-                {diseasePrediction.predictedDiseases.length > 0 ? (
-                  <div>
-                    <h4 className="font-medium mb-3 text-gray-700">Potential Health Risks:</h4>
+                <div>
+                  <div className="flex justify-between items-center mb-3">
+                    <h4 className="font-medium text-gray-700">Potential Health Risks:</h4>
+                    <MonthFilter selectedMonth={selectedMonth} setSelectedMonth={setSelectedMonth} />
+                  </div>
+                  
+                  {selectedMonth ? (
+                    <div>
+                      <div className="mb-4 bg-blue-50 p-3 rounded-lg border border-blue-200">
+                        <p className="text-sm text-blue-700">
+                          Showing historical data for {new Date(0, selectedMonth - 1).toLocaleString('default', { month: 'long' })}
+                        </p>
+                      </div>
+                      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+                        {Array.from(
+                          new Set(
+                            diseaseRecords
+                              .filter(record => record.monthNumber === selectedMonth)
+                              .flatMap(record => record.Disease.split(',').map(d => d.trim()))
+                          )
+                        )
+                        .filter((disease: string) => disease)
+                        .map((disease: string, index: number) => (
+                          <DiseaseCard key={index} disease={disease} />
+                        ))}
+                      </div>
+                    </div>
+                  ) : (
                     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
-                      {diseasePrediction.predictedDiseases.map((disease, index) => (
+                      {diseasePrediction.predictedDiseases.map((disease: string, index: number) => (
                         <DiseaseCard key={index} disease={disease} />
                       ))}
                     </div>
-                  </div>
-                ) : (
-                  <motion.div 
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    className="bg-yellow-50 p-4 rounded-lg border border-yellow-200"
-                  >
-                    <p className="text-yellow-800">No specific health risks identified for these conditions.</p>
-                  </motion.div>
-                )}
+                  )}
+                </div>
 
                 {diseasePrediction.similarConditions && diseasePrediction.similarConditions.length > 0 && (
                   <motion.div 
@@ -824,6 +880,66 @@ export default function Home() {
             )}
           </motion.div>
         </div>
+        <motion.div 
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.3 }}
+          className="mt-12 bg-white p-6 rounded-xl shadow-lg"
+        >
+          <h2 className="text-xl font-semibold mb-4 flex items-center text-blue-600">
+            <BsClipboard2Pulse className="mr-2" />
+            Hospital Bed Capacity
+          </h2>
+          <p className="text-gray-600 mb-6">
+            View real-time bed availability and capacity projections for different hospital departments.
+          </p>
+          
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            <Link 
+              href="/department/Emergency"
+              className="bg-gradient-to-r from-red-50 to-red-100 hover:from-red-100 hover:to-red-200 border border-red-200 p-4 rounded-lg transition-all duration-300 hover:shadow-md"
+            >
+              <h3 className="font-medium text-red-800">Emergency Department</h3>
+              <p className="text-xs text-red-600 mt-1">View bed status</p>
+            </Link>
+            
+            <Link 
+              href="/department/ICU"
+              className="bg-gradient-to-r from-purple-50 to-purple-100 hover:from-purple-100 hover:to-purple-200 border border-purple-200 p-4 rounded-lg transition-all duration-300 hover:shadow-md"
+            >
+              <h3 className="font-medium text-purple-800">ICU</h3>
+              <p className="text-xs text-purple-600 mt-1">View bed status</p>
+            </Link>
+            
+            <Link 
+              href="/department/General%20Ward"
+              className="bg-gradient-to-r from-blue-50 to-blue-100 hover:from-blue-100 hover:to-blue-200 border border-blue-200 p-4 rounded-lg transition-all duration-300 hover:shadow-md"
+            >
+              <h3 className="font-medium text-blue-800">General Ward</h3>
+              <p className="text-xs text-blue-600 mt-1">View bed status</p>
+            </Link>
+            
+            <Link 
+              href="/department/Pediatrics"
+              className="bg-gradient-to-r from-green-50 to-green-100 hover:from-green-100 hover:to-green-200 border border-green-200 p-4 rounded-lg transition-all duration-300 hover:shadow-md"
+            >
+              <h3 className="font-medium text-green-800">Pediatrics</h3>
+              <p className="text-xs text-green-600 mt-1">View bed status</p>
+            </Link>
+          </div>
+          
+          <div className="mt-6 text-center">
+            <Link 
+              href="/department/all"
+              className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200"
+            >
+              View All Departments
+              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </Link>
+          </div>
+        </motion.div>
       </div>
 
       {/* Add some custom animations in the styles */}
