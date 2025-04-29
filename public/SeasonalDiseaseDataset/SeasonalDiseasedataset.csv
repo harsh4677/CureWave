@@ -1,0 +1,1001 @@
+Month,monthNumber,Date,tempMin,tempAvg,tempMax,humidityMin,humidityAvg,humidityMax,Disease
+January,1,1,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,2,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,3,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,4,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,5,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,6,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,7,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,8,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,9,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,10,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,11,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,12,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,13,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,14,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,15,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,16,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,17,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,18,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,19,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,20,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,21,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,22,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,23,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,24,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,25,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,26,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,27,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,28,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,29,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,30,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+January,1,31,8,15,20,30,42,55,"H3N2 Flu, COPD Flare-ups, Hypothermia, Norovirus, Seasonal Depression, Frostbite, Dry Skin Dermatitis, Influenza A, Sinus Infections, Bronchiolitis, Pneumococcal Pneumonia, Raynaud’s Phenomenon, Winter Asthma, Heart Attack (Cold Stress), Chilblains, Strep Throat, RSV (Respiratory Syncytial Virus), Frozen Shoulder, Winter Vomiting Bug, Coronary Artery Spasm"
+February,2,1,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening, Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,2,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,3,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,4,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,5,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,6,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,7,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,8,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,9,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,10,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,11,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,12,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,13,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,14,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,15,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,16,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,17,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,18,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,19,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,20,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,21,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,22,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,23,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,24,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,25,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,26,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,27,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,28,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+February,2,29,12,18,25,35,47,60,"Allergic Rhinitis, Migraine (Weather Triggers), Influenza B, Bronchitis, Ear Infections, Febrile Seizures (in Children), Cold Urticaria, Winter Conjunctivitis, SAD (Seasonal Affective Disorder), Hand, Foot, and Mouth Disease (Early Cases), Croup, Dry Eye Syndrome,Viral Pharyngitis, Winter Eczema, Frozen Joints (Arthritis Flare), Hypothyroidism Worsening,Slip-and-Fall Injuries (Ice-Related), Frostnip, Winter Dehydration, Secondary Bacterial Pneumonia"
+March,3,1,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,2,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,3,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,4,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,5,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,6,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,7,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,8,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,9,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,10,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,11,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,12,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,13,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,14,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,15,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,16,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,17,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,18,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,19,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,20,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,21,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,22,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,23,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,24,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,25,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,26,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,27,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,28,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,29,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,30,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+March,3,31,28,35,42,30,40,50,"Heatstroke (Early Summer), Sunburn, Chickenpox, Measles, Typhoid, Hepatitis A & E, Pollen Allergies, Hay Fever, Spring Cold (Rhinovirus), Lyme Disease (Early Tick Activity), Gastroenteritis (Norovirus), Asthma Flare-ups, Spring Sinusitis, Food Poisoning (Warmer Weather), Scarlet Fever, Roseola,Spring Conjunctivitis, Heat Exhaustion (Early Cases), Seasonal Stomach Flu"
+April,4,1,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,2,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,3,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,4,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,5,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,6,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,7,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,8,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,9,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,10,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,11,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,12,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,13,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,14,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,15,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,16,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,17,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,18,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,19,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,20,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,21,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,22,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,23,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,24,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,25,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,26,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,27,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,28,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,29,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,30,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+April,4,31,25,35,45,20,32,45,"Heatstroke, Food Poisoning, Mumps, Spring Allergies, Poison Ivy Rash, Heat Rash, Viral Meningitis, Lyme Disease (Tick Season), West Nile Virus (Early Mosquitoes), Spring Migraine (Weather Changes), Strep Throat (Spring Wave), Whooping Cough (Pertussis), Coxsackievirus (Hand, Foot, Mouth), Spring Fatigue, Exercise-Induced Asthma, Sun Poisoning, Heat Cramps, Spring Bronchitis, Allergic Conjunctivitis, Dust Allergy"
+May,5,1,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,2,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,3,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,4,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,5,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,6,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,7,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,8,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,9,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,10,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,11,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,12,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,13,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,14,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,15,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,16,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,17,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,18,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,19,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,20,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,21,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,22,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,23,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,24,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,25,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,26,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,27,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,28,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,29,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,30,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+May,5,31,27,38,50,20,30,40,"Heat Exhaustion, Hypoglycemia (Diabetic Risk), Water-borne Parasites (Giardia), Dehydration, Swimmer’s Ear, Trench Foot (Humidity), Athlete’s Foot, Heat Syncope, Sun Allergy (PMLE),Jellyfish Stings, Poison Oak Rash, Cyclospora (Parasitic Diarrhea), Spring Flu (Late Season), Mold Allergies, Pollen-Induced Asthma, Heat Edema, Insect Bite Allergies, Summer Cold (Adenovirus), Hyperthermia"
+June,6,1,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,2,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,3,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,4,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,5,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,6,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,7,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,8,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,9,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,10,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,11,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,12,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,13,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,14,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,15,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,16,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,17,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,18,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,19,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,20,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,21,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,22,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,23,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,24,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,25,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,26,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,27,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,28,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,29,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,30,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+June,6,31,15,25,30,60,72,85,"Pre-Monsoon Heatwave Illness, Early Monsoon Onset Diseases, Skin Rashes & Fungal Infections, Prickly Heat, Leptospirosis (Early Rain), Dengue (Early Cases), Scabies (Humidity), Conjunctivitis (Pink Eye),Stomach Flu (Rotavirus), Typhoid (Contaminated Water), Cholera (Sporadic Cases), Heatstroke (Peak Summer), Sunstroke, Fungal Nail Infections, Swimmer’s Itch, Algae Toxin Poisoning, Foodborne Botulism, Summer Migraine (Dehydration), Heat Hyperpyrexia,Monsoon Allergies"
+July,7,1,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,2,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,3,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,4,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,5,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,6,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,7,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,8,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,9,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,10,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,11,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,12,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,13,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,14,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,15,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,16,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,17,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,18,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,19,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,20,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,21,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,22,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,23,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,24,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,25,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,26,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,27,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,28,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,29,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,30,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+July,7,31,12,23,34,70,82,95,"Dengue, Malaria, Leptospirosis, Conjunctivitis, Hepatitis A (Flood-Related), Chikungunya (Early Cases), Scrub Typhus, Gastroenteritis, Japanese Encephalitis (Early), Water Warts (Molluscum), Fungal Sinusitis, Monsoon Fever (Undifferentiated), Worm Infestations, Tinea Versicolor, Mosquito-Borne Encephalitis, Bacterial Dysentery, Hydatid Disease, Rat-Bite Fever, Foot Rot (Trench Foot), Monsoon Asthma"
+August,8,1,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,2,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,3,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,4,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,5,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,6,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,7,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,8,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,9,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,10,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,11,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,12,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,13,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,14,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,15,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,16,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,17,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,18,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,19,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,20,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,21,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,22,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,23,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,24,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,25,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,26,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,27,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,28,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,29,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,30,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+August,8,31,12,22,32,75,86,98,"Chikungunya, Scrub Typhus, Gastroenteritis, Typhoid (Peak), Hepatitis E (Flood Areas), Worm Infections, Eye Flu (Viral Conjunctivitis), Fungal Ear Infections, Leptospirosis (Floodwater), Dengue Hemorrhagic Fever, Malaria (Falciparum), Stomach Bug (Norovirus), Bacterial Skin Infections, Monsoon Cough, Parasitic Diarrhea, Fungal Pneumonia, Heat Rash (Humidity), Post-Monsoon Flu, Waterborne E. Coli"
+September,9,1,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,2,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,3,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,4,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,5,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,6,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,7,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,8,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,9,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,10,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,11,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,12,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,13,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,14,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,15,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,16,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,17,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,18,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,19,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,20,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,21,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,22,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,23,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,24,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,25,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,26,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,27,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,28,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,29,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,30,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+September,9,31,12,20,30,75,82,90,"Japanese Encephalitis, Cholera, Post-Monsoon Dengue, Malaria (Vivax), Hepatitis A Outbreaks, Leptospirosis (Late Cases), Fungal Meningitis, Typhoid (Late Season), Worm Infestation (Roundworm), Allergic Bronchitis, Post-Rain Asthma, Late Monsoon Conjunctivitis, Scrub Typhus (Peak), Gastro Outbreaks, Fungal Throat Infections, Residual Leptospirosis, Post-Flood Skin Diseases, Late Dengue Surge, Waterborne Amoebiasis, Post-Monsoon Fatigue"
+october,10,1,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,2,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,3,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,4,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,5,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,6,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,7,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,8,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,9,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,10,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,11,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,12,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,13,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,14,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,15,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,16,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,17,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,18,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,19,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,20,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,21,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,22,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,23,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,24,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,25,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,26,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,27,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,28,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,29,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,30,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+october,10,31,15,23,32,50,67,85,"Late Monsoon Illnesses, Winter Start Allergies, Asthma & Bronchitis, H1N1 (Seasonal Flu), Rhinovirus (Common Cold), Sinus Infections, Pneumonia (Early Winter), Fall Allergies (Ragweed), RSV (Respiratory Syncytial Virus), Croup (Children), Ear Infections (Cold Weather), Hypothermia (Early Cases), Seasonal Eczema, Winter Vomiting Bug (Early), Cold-Induced Urticaria, Fall Lyme Disease (Late Ticks), Mold Allergy (Damp Weather), Post-Monsoon Hepatitis, Early Frostbite, Autumn Migraine (Pressure Changes)"
+November,11,1,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,2,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,3,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,4,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,5,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,6,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,7,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,8,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,9,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,10,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,11,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,12,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,13,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,14,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,15,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,16,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,17,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,18,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,19,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,20,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,21,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,22,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,23,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,24,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,25,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,26,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,27,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,28,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,29,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,30,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+November,11,31,5,15,25,40,55,70,"Common Cold (Rhinovirus), Pneumonia (Bacterial/Viral), Seasonal Flu (Influenza A/B), RSV (Respiratory Syncytial Virus), Bronchitis (Acute & Chronic), Asthma Exacerbations (Cold Air Triggers), Sinus Infections (Sinusitis), Strep Throat (Bacterial Pharyngitis), Norovirus (Winter Vomiting Bug), Croup (Children), Ear Infections (Otitis Media), Seasonal Allergies (Indoor Mold/Dust Mites), COPD Flare-ups (Cold Air & Pollution), Hypothermia (Early Winter Cases), Dry Skin & Eczema (Low Humidity), Raynaud’s Phenomenon (Cold-Induced Circulation Issues), Frostnip (Early Frost Exposure), Winter Conjunctivitis (Dry Eyes), Heart Attack Risk (Cold Stress), Gastroenteritis (Rotavirus/Norovirus)"
+December,12,1,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,2,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,3,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,4,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,5,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,6,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,7,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,8,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,9,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,10,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,11,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,12,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,13,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,14,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,15,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,16,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,17,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,18,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,19,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,20,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,21,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,22,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,23,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,24,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,25,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,26,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,27,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,28,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,29,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,30,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+December,12,31,3,14,25,30,40,60,"Frostbite (Extreme Cold), Seasonal Depression (SAD), H3N2 Flu (Seasonal Influenza), Hypothermia (Severe Cold), Pneumonia (Bacterial/Post-Viral), Bronchiolitis (Infants), Winter Asthma Attacks, Slipping Injuries (Ice-Related Fractures), Chilblains (Cold-Induced Skin Inflammation), COPD Worsening (Air Pollution + Cold), Norovirus Outbreaks (Holiday Gatherings), Stomach Flu (Viral Gastroenteritis), Dry Eye Syndrome (Low Humidity), Cold Urticaria (Allergic Reaction to Cold), Frozen Shoulder (Adhesive Capsulitis), Heart Failure Exacerbation (Cold Stress), Winter Migraines (Barometric Pressure Changes), Influenza-Like Illness (ILI), Arthritis Flare-ups (Cold & Humidity), Carbon Monoxide Poisoning (Indoor Heating Risks)"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+January,,,,,,,,,

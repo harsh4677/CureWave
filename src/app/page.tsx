@@ -1,26 +1,18 @@
 /** @format */
 "use client";
 
-import Container from "@/components/Container";
-import ForecastWeatherDetail from "@/components/ForecastWeatherDetail";
-import Navbar from "@/components/Navbar";
-import WeatherDetails from "@/components/WeatherDetails";
-import WeatherIcon from "@/components/WeatherIcon";
-import { convertKelvinToCelsius } from "@/utils/convertKelvinToCelsius";
-import { convertWindSpeed } from "@/utils/convertWindSpeed";
-import { getDayOrNightIcon } from "@/utils/getDayOrNightIcon";
-import { metersToKilometers } from "@/utils/metersToKilometers";
 import axios from "axios";
-import { format, fromUnixTime, parseISO } from "date-fns";
-import Image from "next/image";
-import { useQuery } from "react-query";
-import { loadingCityAtom, placeAtom } from "./atom";
 import { useAtom } from "jotai";
-import { useEffect } from "react";
-// import { format as dateFromate } from "date-format";
+import { useCallback, useEffect, useState } from "react";
+import { loadingCityAtom, placeAtom } from "./atom";
+import { IoSearch } from "react-icons/io5";
+import { MdOutlineLocationOn, MdMyLocation } from "react-icons/md";
+import Link from "next/link";
+import { WiDaySunny, WiRain, WiCloudy, WiSnow, WiThunderstorm, WiFog } from "react-icons/wi";
+import { FiDroplet, FiWind, FiThermometer } from "react-icons/fi";
+import { BsCalendarDate, BsClipboard2Pulse, BsDropletHalf } from "react-icons/bs";
+import { motion, AnimatePresence } from "framer-motion";
 
-// var format = require('date-format');
-// format('hh:mm:ss.SSS', new Date()); // just the time
 interface WeatherDetail {
   dt: number;
   main: {
@@ -76,230 +68,804 @@ interface WeatherData {
   };
 }
 
-export default function Home() {
-  const [place, setPlace] = useAtom(placeAtom);
-  const [loadingCity] = useAtom(loadingCityAtom);
+interface DiseaseRecord {
+  Month: string;
+  monthNumber: number;
+  Date: number;
+  tempMin: number;
+  tempAvg: number;
+  tempMax: number;
+  humidityMin: number;
+  humidityAvg: number;
+  humidityMax: number;
+  Disease: string;
+}
 
-  const { isLoading, error, data, refetch } = useQuery<WeatherData>(
-    "repoData",
-    async () => {
-      const { data } = await axios.get(
-        `https://api.openweathermap.org/data/2.5/forecast?q=${place}&appid=${process.env.NEXT_PUBLIC_WEATHER_KEY}&cnt=56`
-      );
-      return data;
-    }
-  );
+interface DiseasePrediction {
+  month: string;
+  monthNumber: number;
+  date: number;
+  temperature: number;
+  humidity: number;
+  predictedDiseases: string[];
+  confidence: number;
+  similarConditions?: {
+    temperature: number;
+    humidity: number;
+    diseases: string[];
+  }[];
+}
 
-  useEffect(() => {
-    refetch();
-  }, [place, refetch]);
-
-  const firstData = data?.list[0];
-
-  // console.log("error", error);
-
-  console.log("data", data);
-
-  const uniqueDates = [
-    ...new Set(
-      data?.list.map(
-        (entry) => new Date(entry.dt * 1000).toISOString().split("T")[0]
-      )
-    )
-  ];
-
-  // Filtering data to get the first entry after 6 AM for each unique date
-  const firstDataForEachDate = uniqueDates.map((date) => {
-    return data?.list.find((entry) => {
-      const entryDate = new Date(entry.dt * 1000).toISOString().split("T")[0];
-      const entryTime = new Date(entry.dt * 1000).getHours();
-      return entryDate === date && entryTime >= 6;
-    });
-  });
-
-  if (isLoading)
-    return (
-      <div className="flex items-center min-h-screen justify-center">
-        <p className="animate-bounce">Loading...</p>
-      </div>
-    );
-  if (error)
-    return (
-      <div className="flex items-center min-h-screen justify-center">
-        {/* @ts-ignore */}
-        <p className="text-red-400">{error.message}</p>
-      </div>
-    );
+function SearchBox({
+  value,
+  onChange,
+  onSubmit,
+  className,
+}: {
+  value: string;
+  onChange: React.ChangeEventHandler<HTMLInputElement>;
+  onSubmit: React.FormEventHandler<HTMLFormElement>;
+  className?: string;
+}) {
   return (
-    <div className="flex flex-col gap-4 bg-gray-100 min-h-screen ">
-      <Navbar location={data?.city.name} />
-      <main className="px-3 max-w-7xl mx-auto flex flex-col gap-9  w-full  pb-10 pt-4 ">
-        {/* today data  */}
-        {loadingCity ? (
-          <WeatherSkeleton />
-        ) : (
-          <>
-            <section className="space-y-4 ">
-              <div className="space-y-2">
-                <h2 className="flex gap-1 text-2xl  items-end ">
-                  <p>{format(parseISO(firstData?.dt_txt ?? ""), "EEEE")}</p>
-                  <p className="text-lg">
-                    ({format(parseISO(firstData?.dt_txt ?? ""), "dd.MM.yyyy")})
-                  </p>
-                </h2>
-                <Container className=" gap-10 px-6 items-center">
-                  {/* temprature */}
-                  <div className=" flex flex-col px-4 ">
-                    <span className="text-5xl">
-                      {convertKelvinToCelsius(firstData?.main.temp ?? 296.37)}°
-                    </span>
-                    <p className="text-xs space-x-1 whitespace-nowrap">
-                      <span> Feels like</span>
-                      <span>
-                        {convertKelvinToCelsius(
-                          firstData?.main.feels_like ?? 0
-                        )}
-                        °
-                      </span>
-                    </p>
-                    <p className="text-xs space-x-2">
-                      <span>
-                        {convertKelvinToCelsius(firstData?.main.temp_min ?? 0)}
-                        °↓{" "}
-                      </span>
-                      <span>
-                        {" "}
-                        {convertKelvinToCelsius(firstData?.main.temp_max ?? 0)}
-                        °↑
-                      </span>
-                    </p>
-                  </div>
-                  {/* time  and weather  icon */}
-                  <div className="flex gap-10 sm:gap-16 overflow-x-auto w-full justify-between pr-3">
-                    {data?.list.map((d, i) => (
-                      <div
-                        key={i}
-                        className="flex flex-col justify-between gap-2 items-center text-xs font-semibold "
-                      >
-                        <p className="whitespace-nowrap">
-                          {format(parseISO(d.dt_txt), "h:mm a")}
-                        </p>
+    <form
+      onSubmit={onSubmit}
+      className={`flex relative items-center justify-center h-10 ${className}`}
+    >
+      <input
+        type="text"
+        value={value}
+        onChange={onChange}
+        placeholder="Search location.."
+        className="px-4 py-2 w-[230px] border border-gray-300 rounded-l-md focus:outline-none focus:border-blue-500 h-full text-sm transition-all duration-300 hover:shadow-md"
+      />
+      <button className="px-4 py-[9px] bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-r-md focus:outline-none hover:from-blue-600 hover:to-blue-700 h-full transition-all duration-300 shadow-md hover:shadow-lg">
+        <IoSearch className="text-lg" />
+      </button>
+    </form>
+  );
+}
 
-                        {/* <WeatherIcon iconName={d.weather[0].icon} /> */}
-                        <WeatherIcon
-                          iconName={getDayOrNightIcon(
-                            d.weather[0].icon,
-                            d.dt_txt
-                          )}
-                        />
-                        <p>{convertKelvinToCelsius(d?.main.temp ?? 0)}°</p>
-                      </div>
-                    ))}
-                  </div>
-                </Container>
-              </div>
-              <div className=" flex gap-4">
-                {/* left  */}
-                <Container className="w-fit  justify-center flex-col px-4 items-center ">
-                  <p className=" capitalize text-center">
-                    {firstData?.weather[0].description}{" "}
-                  </p>
-                  <WeatherIcon
-                    iconName={getDayOrNightIcon(
-                      firstData?.weather[0].icon ?? "",
-                      firstData?.dt_txt ?? ""
-                    )}
-                  />
-                </Container>
-                <Container className="bg-yellow-300/80  px-6 gap-4 justify-between overflow-x-auto">
-                  <WeatherDetails
-                    visability={metersToKilometers(
-                      firstData?.visibility ?? 10000
-                    )}
-                    airPressure={`${firstData?.main.pressure} hPa`}
-                    humidity={`${firstData?.main.humidity}%`}
-                    sunrise={format(data?.city.sunrise ?? 1702949452, "H:mm")}
-                    // sunrise={}
-                    sunset={format(data?.city.sunset ?? 1702517657, "H:mm")}
-                    windSpeed={convertWindSpeed(firstData?.wind.speed ?? 1.64)}
-                  />
-                </Container>
-                {/* right  */}
-              </div>
-            </section>
+function SuggestionBox({
+  showSuggestions,
+  suggestions,
+  handleSuggestionClick,
+  error,
+}: {
+  showSuggestions: boolean;
+  suggestions: string[];
+  handleSuggestionClick: (item: string) => void;
+  error: string;
+}) {
+  return (
+    <AnimatePresence>
+      {((showSuggestions && suggestions.length > 1) || error) && (
+        <motion.ul 
+          initial={{ opacity: 0, y: -10 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: -10 }}
+          transition={{ duration: 0.2 }}
+          className="mb-4 bg-white absolute border top-[44px] left-0 border-gray-200 rounded-md min-w-[200px] flex flex-col gap-1 py-2 px-2 z-10 shadow-xl"
+        >
+          {error && suggestions.length < 1 && (
+            <li className="text-red-500 p-1 text-sm">{error}</li>
+          )}
+          {suggestions.map((item, i) => (
+            <motion.li
+              key={i}
+              onClick={() => handleSuggestionClick(item)}
+              whileHover={{ scale: 1.02 }}
+              className="cursor-pointer p-1 rounded hover:bg-blue-50 text-sm transition-all duration-150"
+            >
+              {item}
+            </motion.li>
+          ))}
+        </motion.ul>
+      )}
+    </AnimatePresence>
+  );
+}
 
-            {/* 7 day forcast data  */}
-            <section className="flex w-full flex-col gap-4  ">
-              <p className="text-2xl">Forcast (7 days)</p>
-              {firstDataForEachDate.map((d, i) => (
-                <ForecastWeatherDetail
-                  key={i}
-                  description={d?.weather[0].description ?? ""}
-                  weatehrIcon={d?.weather[0].icon ?? "01d"}
-                  date={d ? format(parseISO(d.dt_txt), "dd.MM") : ""}
-                  day={d ? format(parseISO(d.dt_txt), "dd.MM") : "EEEE"}
-                  feels_like={d?.main.feels_like ?? 0}
-                  temp={d?.main.temp ?? 0}
-                  temp_max={d?.main.temp_max ?? 0}
-                  temp_min={d?.main.temp_min ?? 0}
-                  airPressure={`${d?.main.pressure} hPa `}
-                  humidity={`${d?.main.humidity}% `}
-                  sunrise={format(
-                    fromUnixTime(data?.city.sunrise ?? 1702517657),
-                    "H:mm"
-                  )}
-                  sunset={format(
-                    fromUnixTime(data?.city.sunset ?? 1702517657),
-                    "H:mm"
-                  )}
-                  visability={`${metersToKilometers(d?.visibility ?? 10000)} `}
-                  windSpeed={`${convertWindSpeed(d?.wind.speed ?? 1.64)} `}
-                />
-              ))}
-            </section>
-          </>
-        )}
-      </main>
+function Navbar() {
+  return (
+    <nav className="bg-white shadow-sm sticky top-0 z-50 backdrop-blur-sm bg-opacity-80">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center h-16">
+          <div className="flex items-center">
+            <Link href="/" className="text-xl font-bold text-blue-600 flex items-center hover:text-blue-700 transition-colors duration-200">
+              <BsClipboard2Pulse className="mr-2 text-2xl" />
+              <span className="bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
+                CureWave
+              </span>
+            </Link>
+          </div>
+          <div className="hidden md:flex items-center space-x-6">
+            <Link href="/" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 hover:bg-blue-50">
+              Home
+            </Link>
+            <Link href="/about" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 hover:bg-blue-50">
+              About
+            </Link>
+            <Link href="/contact" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 hover:bg-blue-50">
+              Contact
+            </Link>
+          </div>
+        </div>
+      </div>
+    </nav>
+  );
+}
+
+function WeatherIcon({ condition }: { condition: string }) {
+  const iconSize = "text-5xl";
+  
+  switch (condition.toLowerCase()) {
+    case 'clear':
+      return <WiDaySunny className={`${iconSize} text-yellow-400 animate-pulse`} />;
+    case 'rain':
+      return <WiRain className={`${iconSize} text-blue-400 animate-rain`} />;
+    case 'clouds':
+      return <WiCloudy className={`${iconSize} text-gray-400 animate-float`} />;
+    case 'snow':
+      return <WiSnow className={`${iconSize} text-blue-200 animate-snow`} />;
+    case 'thunderstorm':
+      return <WiThunderstorm className={`${iconSize} text-purple-500 animate-thunder`} />;
+    case 'fog':
+    case 'mist':
+    case 'haze':
+      return <WiFog className={`${iconSize} text-gray-300 animate-fade`} />;
+    default:
+      return <WiDaySunny className={`${iconSize} text-yellow-400`} />;
+  }
+}
+
+function DiseaseCard({ disease }: { disease: string }) {
+  const getDiseaseColor = (disease: string) => {
+    if (disease.includes('Cold') || disease.includes('Flu')) return 'from-blue-100 to-blue-50 hover:from-blue-500 hover:to-blue-400 text-blue-800 hover:text-white border-blue-200';
+    if (disease.includes('Allerg')) return 'from-green-100 to-green-50 hover:from-green-500 hover:to-green-400 text-green-800 hover:text-white border-green-200';
+    if (disease.includes('Heat')) return 'from-red-100 to-red-50 hover:from-red-500 hover:to-red-400 text-red-800 hover:text-white border-red-200';
+    if (disease.includes('Respiratory')) return 'from-purple-100 to-purple-50 hover:from-purple-500 hover:to-purple-400 text-purple-800 hover:text-white border-purple-200';
+    return 'from-gray-100 to-gray-50 hover:from-gray-500 hover:to-gray-400 text-gray-800 hover:text-white border-gray-200';
+  };
+
+  return (
+    <Link 
+      href={`/disease/${encodeURIComponent(disease)}`}
+      className={`p-3 rounded-lg cursor-pointer transition-all duration-300 hover:shadow-lg hover:scale-105 border bg-gradient-to-br h-full flex items-center justify-center ${getDiseaseColor(disease)}`}
+    >
+      <motion.div 
+        whileHover={{ scale: 1.05 }}
+        className="font-medium text-sm text-center"
+      >
+        {disease}
+      </motion.div>
+    </Link>
+  );
+}
+
+function LoadingSpinner() {
+  return (
+    <div className="flex justify-center items-center min-h-[200px]">
+      <motion.div
+        animate={{ rotate: 360 }}
+        transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
+        className="rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"
+      ></motion.div>
     </div>
   );
 }
 
-function WeatherSkeleton() {
-  return (
-    <section className="space-y-8 ">
-      {/* Today's data skeleton */}
-      <div className="space-y-2 animate-pulse">
-        {/* Date skeleton */}
-        <div className="flex gap-1 text-2xl items-end ">
-          <div className="h-6 w-24 bg-gray-300 rounded"></div>
-          <div className="h-6 w-24 bg-gray-300 rounded"></div>
-        </div>
+export default function Home() {
+  const [mounted, setMounted] = useState(false);
+  const [place, setPlace] = useAtom(placeAtom);
+  const [loadingCity, setLoadingCity] = useAtom(loadingCityAtom);
+  const [weatherData, setWeatherData] = useState<WeatherData | null>(null);
+  const [diseasePrediction, setDiseasePrediction] = useState<DiseasePrediction | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [diseaseRecords, setDiseaseRecords] = useState<DiseaseRecord[]>([]);
 
-        {/* Time wise temperature skeleton */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {[1, 2, 3, 4].map((index) => (
-            <div key={index} className="flex flex-col items-center space-y-2">
-              <div className="h-6 w-16 bg-gray-300 rounded"></div>
-              <div className="h-6 w-6 bg-gray-300 rounded-full"></div>
-              <div className="h-6 w-16 bg-gray-300 rounded"></div>
+  // Search functionality state
+  const [city, setCity] = useState("");
+  const [searchError, setSearchError] = useState("");
+  const [suggestions, setSuggestions] = useState<string[]>([]);
+  const [showSuggestions, setShowSuggestions] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    const loadDiseaseData = async () => {
+      try {
+        const response = await fetch('/data.json');
+        if (!response.ok) {
+          throw new Error('Failed to load disease data');
+        }
+        const jsonData = await response.json();
+        
+        const parsedData = jsonData.map((item: any) => ({
+          Month: item.Month,
+          monthNumber: parseInt(item.monthNumber),
+          Date: parseInt(item.Date),
+          tempMin: parseFloat(item.tempMin),
+          tempAvg: parseFloat(item.tempAvg),
+          tempMax: parseFloat(item.tempMax),
+          humidityMin: parseFloat(item.humidityMin),
+          humidityAvg: parseFloat(item.humidityAvg),
+          humidityMax: parseFloat(item.humidityMax),
+          Disease: item.Disease
+        }));
+        
+        setDiseaseRecords(parsedData);
+      } catch (err) {
+        console.error('Error loading JSON:', err);
+        setError('Failed to load disease data');
+      }
+    };
+
+    loadDiseaseData();
+  }, []);
+
+  const predictDiseases = useCallback((
+    temperature: number,
+    humidity: number,
+    monthNumber: number,
+    date: number,
+  ): DiseasePrediction => {
+    if (diseaseRecords.length === 0) {
+      return {
+        month: new Date().toLocaleString('default', { month: 'long' }),
+        monthNumber,
+        date,
+        temperature,
+        humidity,
+        predictedDiseases: ["No disease data available"],
+        confidence: 0,
+        similarConditions: []
+      };
+    }
+  
+    const monthNames = [
+      "January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"
+    ];
+    const currentMonth = monthNames[monthNumber - 1];
+  
+    const monthRecords = diseaseRecords.filter(
+      record => record.monthNumber === monthNumber
+    );
+  
+    if (monthRecords.length === 0) {
+      return {
+        month: currentMonth,
+        monthNumber,
+        date,
+        temperature,
+        humidity,
+        predictedDiseases: ["No disease data for this month"],
+        confidence: 0,
+        similarConditions: []
+      };
+    }
+  
+    const dateRecords = monthRecords.filter(
+      record => record.Date === date
+    );
+  
+    const findBestMatch = (records: DiseaseRecord[]) => {
+      return records.reduce<{record: DiseaseRecord | null, score: number}>(
+        (best, record) => {
+          const tempDiff = Math.abs(record.tempAvg - temperature);
+          const humidityDiff = Math.abs(record.humidityAvg - humidity);
+          const score = (tempDiff * 0.7) + (humidityDiff * 0.3);
+          
+          if (!best.record || score < best.score) {
+            return { record, score };
+          }
+          return best;
+        },
+        { record: null, score: Infinity }
+      ).record;
+    };
+  
+    let bestMatch = findBestMatch(dateRecords);
+    let matchType: 'date' | 'month' = 'date';
+    
+    if (!bestMatch) {
+      bestMatch = findBestMatch(monthRecords);
+      matchType = 'month';
+    }
+  
+    let confidence = 0.5;
+    if (bestMatch) {
+      const tempDiff = Math.abs(bestMatch.tempAvg - temperature);
+      const humidityDiff = Math.abs(bestMatch.humidityAvg - humidity);
+      
+      confidence = Math.max(0.3, 
+        0.7 - (tempDiff / 10) - (humidityDiff / 20)
+      );
+      
+      if (matchType === 'date') {
+        confidence = Math.min(0.9, confidence + 0.2);
+      }
+    }
+  
+    const diseases = bestMatch 
+      ? bestMatch.Disease.split(',').map(d => d.trim())
+      : Array.from(new Set(
+          monthRecords.flatMap(r => r.Disease.split(',').map(d => d.trim())
+        )));
+  
+    const similarConditions = monthRecords
+      .filter(record => {
+        const tempDiff = Math.abs(record.tempAvg - temperature);
+        const humidityDiff = Math.abs(record.humidityAvg - humidity);
+        return tempDiff <= 5 && humidityDiff <= 10 && record.Date !== date;
+      })
+      .slice(0, 3)
+      .map(record => ({
+        temperature: record.tempAvg,
+        humidity: record.humidityAvg,
+        diseases: record.Disease.split(',').map(d => d.trim())
+      }));
+  
+    return {
+      month: currentMonth,
+      monthNumber,
+      date,
+      temperature,
+      humidity,
+      predictedDiseases: diseases.length > 0 
+        ? diseases 
+        : ["No specific diseases identified"],
+      confidence: parseFloat(confidence.toFixed(2)),
+      similarConditions: similarConditions.length > 0 ? similarConditions : undefined
+    };
+  }, [diseaseRecords]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setIsLoading(true);
+        const { data } = await axios.get(
+          `https://api.openweathermap.org/data/2.5/forecast?q=${place}&appid=${process.env.NEXT_PUBLIC_WEATHER_APP}&cnt=56`
+        );
+        setWeatherData(data);
+
+        if (data && data.list && data.list.length > 0 && diseaseRecords.length > 0) {
+          const currentWeather = data.list[0];
+          const tempC = currentWeather.main.temp - 273.15;  
+          const humidity = currentWeather.main.humidity;
+          const dateObj = new Date(currentWeather.dt * 1000);
+          const monthNumber = dateObj.getMonth() + 1;  
+          const date = dateObj.getDate();
+          
+          const prediction = predictDiseases(tempC, humidity, monthNumber, date);
+          setDiseasePrediction(prediction);
+        }
+      } catch (err) {
+        setError(err instanceof Error ? err.message : "Unknown error");
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    if (place) {
+      fetchData();
+    }
+  }, [place, diseaseRecords, predictDiseases]);
+
+  async function handleInputChange(value: string) {
+    setCity(value);
+    if (value.length >= 3) {
+      try {
+        const response = await axios.get(
+          `https://api.openweathermap.org/data/2.5/find?q=${value}&appid=${process.env.NEXT_PUBLIC_WEATHER_APP}`
+        );
+
+        const suggestions = response.data.list.map((item: any) => item.name);
+        setSuggestions(suggestions);
+        setSearchError("");
+        setShowSuggestions(true);
+      } catch (error) {
+        setSuggestions([]);
+        setShowSuggestions(false);
+      }
+    } else {
+      setSuggestions([]);
+      setShowSuggestions(false);
+    }
+  }
+
+  function handleSuggestionClick(value: string) {
+    setCity(value);
+    setShowSuggestions(false);
+  }
+
+  function handleSubmitSearch(e: React.FormEvent<HTMLFormElement>) {
+    setLoadingCity(true);
+    e.preventDefault();
+    if (suggestions.length === 0) {
+      setSearchError("Location not found");
+      setLoadingCity(false);
+    } else {
+      setSearchError("");
+      setTimeout(() => {
+        setLoadingCity(false);
+        setPlace(city);
+        setShowSuggestions(false);
+      }, 500);
+    }
+  }
+
+  function handleCurrentLocation() {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(async (position) => {
+        const { latitude, longitude } = position.coords;
+        try {
+          setLoadingCity(true);
+          const response = await axios.get(
+            `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${process.env.NEXT_PUBLIC_WEATHER_APP}`
+          );
+          setTimeout(() => {
+            setLoadingCity(false);
+            setPlace(response.data.name);
+          }, 500);
+        } catch (error) {
+          setLoadingCity(false);
+        }
+      });
+    }
+  }
+
+  if (!mounted) return null;
+
+  if (isLoading) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-gray-50">
+        <Navbar />
+        <div className="max-w-7xl mx-auto p-4 sm:p-6">
+          <LoadingSpinner />
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-gray-50">
+        <Navbar />
+        <div className="max-w-7xl mx-auto p-4 sm:p-6">
+          <motion.div 
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4 rounded-lg shadow-md"
+          >
+            <div className="flex items-center">
+              <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              <strong className="font-bold">Error: </strong>
+              <span className="ml-1">{error}</span>
             </div>
-          ))}
+          </motion.div>
+        </div>
+      </div>
+    );
+  }
+
+  if (!weatherData) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-gray-50">
+        <Navbar />
+        <div className="max-w-7xl mx-auto p-4 sm:p-6">
+          <motion.div 
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1 }}
+            className="bg-white p-6 rounded-xl shadow-lg text-center"
+          >
+            <div className="mx-auto w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-4">
+              <FiThermometer className="text-blue-500 text-2xl" />
+            </div>
+            <h2 className="text-xl font-semibold mb-2 text-gray-800">No weather data available</h2>
+            <p className="text-gray-600 mb-4">Please search for a location to view weather and health information.</p>
+            <div className="flex justify-center">
+              <button 
+                onClick={handleCurrentLocation}
+                className="flex items-center px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors duration-200"
+              >
+                <MdMyLocation className="mr-2" />
+                Use My Location
+              </button>
+            </div>
+          </motion.div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-gray-50 w-full">
+      <Navbar />
+      <div className="max-w-7xl mx-auto p-4 sm:p-6">
+        {/* Header with Search */}
+        <motion.div 
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4 w-full"
+        >
+          <div>
+            <h1 className="text-2xl md:text-3xl font-bold text-gray-800">
+              Health Advisory
+            </h1>
+            <div className="flex items-center mt-1 text-gray-600">
+              <MdOutlineLocationOn className="mr-1 text-blue-500" />
+              <span className="font-medium">{place}</span>
+            </div>
+          </div>
+          
+          <div className="flex items-center gap-3 w-full md:w-auto">
+            <motion.button 
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={handleCurrentLocation}
+              className="p-2 bg-white rounded-full hover:bg-gray-100 transition-all duration-200 shadow-sm"
+              title="Use current location"
+            >
+              <MdMyLocation className="text-blue-500 text-xl" />
+            </motion.button>
+            
+            <div className="relative w-full md:w-auto">
+              <SearchBox
+                value={city}
+                onSubmit={handleSubmitSearch}
+                onChange={(e) => handleInputChange(e.target.value)}
+              />
+              <SuggestionBox
+                showSuggestions={showSuggestions}
+                suggestions={suggestions}
+                handleSuggestionClick={handleSuggestionClick}
+                error={searchError}
+              />
+            </div>
+          </div>
+        </motion.div>
+
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 w-full">
+          {/* Weather Overview Card */}
+          <motion.div 
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.1 }}
+            className="bg-white p-6 rounded-xl shadow-lg w-full"
+          >
+            <h2 className="text-xl font-semibold mb-4 flex items-center">
+              <FiThermometer className="mr-2 text-blue-500" />
+              Current Weather
+            </h2>
+            
+            {weatherData.list && weatherData.list.length > 0 && (
+              <div className="space-y-4">
+                <div className="flex justify-between items-center">
+                  <div>
+                    <div className="text-4xl font-bold text-gray-800">
+                      {(weatherData.list[0].main.temp - 273.15).toFixed(1)}°C
+                    </div>
+                    <div className="text-gray-500 capitalize">
+                      {weatherData.list[0].weather[0].description}
+                    </div>
+                  </div>
+                  <WeatherIcon condition={weatherData.list[0].weather[0].main} />
+                </div>
+                
+                <div className="grid grid-cols-2 gap-4 pt-4 border-t border-gray-100">
+                  <div className="flex items-center">
+                    <div className="p-2 bg-blue-50 rounded-full mr-3">
+                      <FiThermometer className="text-blue-500" />
+                    </div>
+                    <div>
+                      <div className="text-xs text-gray-500">Feels like</div>
+                      <div className="font-medium text-gray-800">
+                        {(weatherData.list[0].main.feels_like - 273.15).toFixed(1)}°C
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="flex items-center">
+                    <div className="p-2 bg-blue-50 rounded-full mr-3">
+                      <BsDropletHalf className="text-blue-500" />
+                    </div>
+                    <div>
+                      <div className="text-xs text-gray-500">Humidity</div>
+                      <div className="font-medium text-gray-800">
+                        {weatherData.list[0].main.humidity}%
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="flex items-center">
+                    <div className="p-2 bg-blue-50 rounded-full mr-3">
+                      <FiWind className="text-blue-500" />
+                    </div>
+                    <div>
+                      <div className="text-xs text-gray-500">Wind</div>
+                      <div className="font-medium text-gray-800">
+                        {weatherData.list[0].wind.speed} m/s
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="flex items-center">
+                    <div className="p-2 bg-blue-50 rounded-full mr-3">
+                      <BsCalendarDate className="text-blue-500" />
+                    </div>
+                    <div>
+                      <div className="text-xs text-gray-500">Date</div>
+                      <div className="font-medium text-gray-800">
+                        {new Date(weatherData.list[0].dt * 1000).toLocaleDateString()}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+          </motion.div>
+          
+          {/* Health Advisory Card */}
+          <motion.div 
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.2 }}
+            className="bg-white p-6 rounded-xl shadow-lg lg:col-span-2 w-full"
+          >
+            <h2 className="text-xl font-semibold mb-4 flex items-center">
+              <BsClipboard2Pulse className="mr-2 text-green-500" />
+              Health Advisory
+            </h2>
+            
+            {diseasePrediction ? (
+              <div className="space-y-6">
+                <motion.div 
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className="bg-gradient-to-r from-blue-50 to-blue-100 p-4 rounded-lg border border-blue-200"
+                >
+                  <h3 className="font-medium text-lg text-blue-800 mb-2">Current Conditions Analysis</h3>
+                  <p className="text-sm text-blue-700">
+                    {diseasePrediction.month} {diseasePrediction.date}, {diseasePrediction.temperature.toFixed(1)}°C, {diseasePrediction.humidity}% humidity
+                  </p>
+                  
+                  <div className="mt-3 flex items-center">
+                    <div className="w-full bg-gray-200 rounded-full h-2.5">
+                      <div 
+                        className="bg-gradient-to-r from-blue-500 to-blue-600 h-2.5 rounded-full" 
+                        style={{ width: `${diseasePrediction.confidence * 100}%` }}
+                      ></div>
+                    </div>
+                    <span className="ml-2 text-sm font-medium text-blue-800">
+                      {Math.round(diseasePrediction.confidence * 100)}% confidence
+                    </span>
+                  </div>
+                </motion.div>
+
+                {diseasePrediction.predictedDiseases.length > 0 ? (
+                  <div>
+                    <h4 className="font-medium mb-3 text-gray-700">Potential Health Risks:</h4>
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+                      {diseasePrediction.predictedDiseases.map((disease, index) => (
+                        <DiseaseCard key={index} disease={disease} />
+                      ))}
+                    </div>
+                  </div>
+                ) : (
+                  <motion.div 
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    className="bg-yellow-50 p-4 rounded-lg border border-yellow-200"
+                  >
+                    <p className="text-yellow-800">No specific health risks identified for these conditions.</p>
+                  </motion.div>
+                )}
+
+                {diseasePrediction.similarConditions && diseasePrediction.similarConditions.length > 0 && (
+                  <motion.div 
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    className="bg-gray-50 p-4 rounded-lg border border-gray-200"
+                  >
+                    <h4 className="font-medium mb-2 text-gray-700">Similar Historical Conditions:</h4>
+                    <div className="space-y-3">
+                      {diseasePrediction.similarConditions.map((condition, index) => (
+                        <div key={index} className="flex items-start text-sm">
+                          <div className="bg-blue-100 p-1 rounded-full mr-2 mt-0.5">
+                            <FiThermometer className="text-blue-500 text-xs" />
+                          </div>
+                          <div>
+                            <span className="font-medium text-gray-800">~{condition.temperature.toFixed(1)}°C, {condition.humidity}% humidity:</span>
+                            <span className="text-gray-600 ml-1">{condition.diseases.join(", ")}</span>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </motion.div>
+                )}
+
+                <motion.div 
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className="bg-gradient-to-r from-green-50 to-green-100 p-4 rounded-lg border border-green-200"
+                >
+                  <h4 className="font-medium text-green-800 mb-2">Recommendations:</h4>
+                  <ul className="list-disc pl-5 space-y-1 text-green-700">
+                    <li>Stay hydrated by drinking plenty of water</li>
+                    <li>Dress appropriately for the weather conditions</li>
+                    {diseasePrediction.predictedDiseases.some(d => d.includes("Cold") || d.includes("Flu")) && (
+                      <li>Consider getting a flu shot and washing hands frequently</li>
+                    )}
+                    {diseasePrediction.predictedDiseases.some(d => d.includes("Allerg")) && (
+                      <li>Take allergy medication as needed and keep windows closed</li>
+                    )}
+                    {diseasePrediction.predictedDiseases.some(d => d.includes("Heat")) && (
+                      <li>Avoid direct sunlight during peak hours and wear sunscreen</li>
+                    )}
+                    <li>Consult a healthcare provider if symptoms persist</li>
+                  </ul>
+                </motion.div>
+              </div>
+            ) : (
+              <motion.div 
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                className="bg-gray-50 p-4 rounded-lg border border-gray-200 text-center"
+              >
+                <p className="text-gray-600">No health advisory available for current conditions.</p>
+              </motion.div>
+            )}
+          </motion.div>
         </div>
       </div>
 
-      {/* 7 days forecast skeleton */}
-      <div className="flex flex-col gap-4 animate-pulse">
-        <p className="text-2xl h-8 w-36 bg-gray-300 rounded"></p>
-
-        {[1, 2, 3, 4, 5, 6, 7].map((index) => (
-          <div key={index} className="grid grid-cols-2 md:grid-cols-4 gap-4 ">
-            <div className="h-8 w-28 bg-gray-300 rounded"></div>
-            <div className="h-10 w-10 bg-gray-300 rounded-full"></div>
-            <div className="h-8 w-28 bg-gray-300 rounded"></div>
-            <div className="h-8 w-28 bg-gray-300 rounded"></div>
-          </div>
-        ))}
-      </div>
-    </section>
+      {/* Add some custom animations in the styles */}
+      <style jsx global>{`
+        @keyframes rain {
+          0% { transform: translateY(-5px); opacity: 0; }
+          20% { opacity: 1; }
+          100% { transform: translateY(5px); opacity: 0; }
+        }
+        .animate-rain {
+          animation: rain 1.5s infinite;
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-5px); }
+        }
+        .animate-float {
+          animation: float 3s ease-in-out infinite;
+        }
+        @keyframes snow {
+          0% { transform: translateY(-5px) rotate(0deg); opacity: 0; }
+          20% { opacity: 1; }
+          100% { transform: translateY(5px) rotate(360deg); opacity: 0; }
+        }
+        .animate-snow {
+          animation: snow 2s infinite;
+        }
+        @keyframes thunder {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.3; }
+        }
+        .animate-thunder {
+          animation: thunder 1s infinite;
+        }
+        @keyframes fade {
+          0%, 100% { opacity: 0.7; }
+          50% { opacity: 1; }
+        }
+        .animate-fade {
+          animation: fade 3s infinite;
+        }
+      `}</style>
+    </div>
   );
 }
